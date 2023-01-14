@@ -10,4 +10,4 @@ target/
 # Mac
 .DS_Store
 
-.properties
+*.properties
